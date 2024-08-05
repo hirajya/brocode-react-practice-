@@ -18,16 +18,14 @@ import CarObjState from "./components/CarObjState";
 import ToDoList from "./components/ToDoList";
 import UseEfComponent from "./components/UseEfComponent";
 import UseEfComponent2 from "./components/UseEfComponent2";
-
+import DigitalClock from "./components/DigitalClock";
 
 function App() {
   return (
     <>
-      <UseEfComponent2></UseEfComponent2>
+      <DigitalClock></DigitalClock>
     </>
   );
 }
-
-
 
 export default App;
