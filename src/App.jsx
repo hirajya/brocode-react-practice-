@@ -17,12 +17,13 @@ import ComponentFruitArr from "./components/ComponentFruitArr";
 import CarObjState from "./components/CarObjState";
 import ToDoList from "./components/ToDoList";
 import UseEfComponent from "./components/UseEfComponent";
+import UseEfComponent2 from "./components/UseEfComponent2";
 
 
 function App() {
   return (
     <>
-      <UseEfComponent></UseEfComponent>
+      <UseEfComponent2></UseEfComponent2>
     </>
   );
 }
