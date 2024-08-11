@@ -19,11 +19,14 @@ import ToDoList from "./components/ToDoList";
 import UseEfComponent from "./components/UseEfComponent";
 import UseEfComponent2 from "./components/UseEfComponent2";
 import DigitalClock from "./components/DigitalClock";
+import ComponentA from "./components/ComponentA";
+import ComponentRef from "./components/ComponentRef";
+import Stopwatch from "./components/Stopwatch";
 
 function App() {
   return (
     <>
-      <DigitalClock></DigitalClock>
+      <Stopwatch></Stopwatch>
     </>
   );
 }
